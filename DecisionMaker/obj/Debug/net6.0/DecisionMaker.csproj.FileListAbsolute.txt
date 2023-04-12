@@ -1,0 +1,15 @@
+C:\Users\shife\source\repos\DecisionMaker\DecisionMaker\bin\Debug\net6.0\DecisionMaker.exe
+C:\Users\shife\source\repos\DecisionMaker\DecisionMaker\bin\Debug\net6.0\DecisionMaker.deps.json
+C:\Users\shife\source\repos\DecisionMaker\DecisionMaker\bin\Debug\net6.0\DecisionMaker.runtimeconfig.json
+C:\Users\shife\source\repos\DecisionMaker\DecisionMaker\bin\Debug\net6.0\DecisionMaker.dll
+C:\Users\shife\source\repos\DecisionMaker\DecisionMaker\bin\Debug\net6.0\DecisionMaker.pdb
+C:\Users\shife\source\repos\DecisionMaker\DecisionMaker\obj\Debug\net6.0\DecisionMaker.csproj.AssemblyReference.cache
+C:\Users\shife\source\repos\DecisionMaker\DecisionMaker\obj\Debug\net6.0\DecisionMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shife\source\repos\DecisionMaker\DecisionMaker\obj\Debug\net6.0\DecisionMaker.AssemblyInfoInputs.cache
+C:\Users\shife\source\repos\DecisionMaker\DecisionMaker\obj\Debug\net6.0\DecisionMaker.AssemblyInfo.cs
+C:\Users\shife\source\repos\DecisionMaker\DecisionMaker\obj\Debug\net6.0\DecisionMaker.csproj.CoreCompileInputs.cache
+C:\Users\shife\source\repos\DecisionMaker\DecisionMaker\obj\Debug\net6.0\DecisionMaker.dll
+C:\Users\shife\source\repos\DecisionMaker\DecisionMaker\obj\Debug\net6.0\refint\DecisionMaker.dll
+C:\Users\shife\source\repos\DecisionMaker\DecisionMaker\obj\Debug\net6.0\DecisionMaker.pdb
+C:\Users\shife\source\repos\DecisionMaker\DecisionMaker\obj\Debug\net6.0\DecisionMaker.genruntimeconfig.cache
+C:\Users\shife\source\repos\DecisionMaker\DecisionMaker\obj\Debug\net6.0\ref\DecisionMaker.dll
